@@ -1,30 +1,37 @@
 # Internship Assignment 02
 
-Problem statement:Create a simple login form where a user can sign in and then there should be one page where user can rate as well as put comments on the movies (you can make list of any 10 movies). The average rating and comments should be visible besides the movie name.
+*Problem statement:Create a simple login form where a user can sign in and then there should be one page where user can rate as well as put comments on the movies (you can make list of any 10 movies). The average rating and comments should be visible besides the movie name.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Technology Used:
+*Technology Used:
 
 Front end:
+
 CSS3
+
 Bootstrap
 
 Back end:
+
 Nodejs
+
 EJS
+
 Express
 
 Database used:
+
 MongoDB
+
 Mongoose
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Installation Steps to download nodejs in windows(This step is for those who don't have installed nodejs in their pc)-
+*Installation Steps to download nodejs in windows(This step is for those who don't have installed nodejs in their pc)-
 
 -Download the Windows installer from the Nodes.js® web site. 
 
@@ -34,7 +41,7 @@ Installation Steps to download nodejs in windows(This step is for those who don'
 
 -Follow the prompts in the installer (Accept the license agreement, click the NEXT button a bunch of times and accept the default installation settings).
 
-- Restart your computer. You won’t be able to run Node.js® until you restart your computer.
+- Restart your computer. You won’t be able to run https://nodejs.org/en/ until you restart your computer.
 
 - Confirm that Node has been installed successfully on your computer by opening a Hyper terminal and typing in the commands node --version
 
@@ -43,7 +50,7 @@ You should see the version of node you just installed.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Steps required to run the code:
+*Steps required to run the code:
 
 -First clone the project in your computer by  git clone https://github.com/abhishekdhar30/Internship_assg02 command.
 
@@ -57,7 +64,7 @@ Steps required to run the code:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Logic:
+*Logic:
 
 I have created two pages one for login and another for movies.
 
