@@ -26,7 +26,7 @@ Mongoose
 
 <h1>Installation Steps to download nodejs in windows(This step is for those who don't have installed nodejs in their pc)-</h1>
 
--Download the Windows installer from the Nodes.js® web site. 
+-Download the Windows installer from the https://nodejs.org/en/ web site. 
 
 -Choose the LTS version that’s shown on the left. 
 
@@ -34,7 +34,7 @@ Mongoose
 
 -Follow the prompts in the installer (Accept the license agreement, click the NEXT button a bunch of times and accept the default installation settings).
 
-- Restart your computer. You won’t be able to run https://nodejs.org/en/ until you restart your computer.
+- Restart your computer. You won’t be able to run nodejs until you restart your computer.
 
 - Confirm that Node has been installed successfully on your computer by opening a Hyper terminal and typing in the commands node --version
 
