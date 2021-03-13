@@ -20,6 +20,27 @@ Database used:
 MongoDB
 Mongoose
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h1>Steps required to run the code:</h1>
+
+-Make sure you have nodejs installed in your computer if not I have mentioned the process to download it in windows below
+
+-Install nodemon by entering <strong>npm install -g nodemon</strong> in terminal
+
+-Then install mongodb server on  https://www.mongodb.com/try/download/community (If already downloaded ignore this step)
+
+-Clone the project in your computer by  <strong>git clone https://github.com/abhishekdhar30/Internship_assg02</strong> command on terminal.
+
+-Open the terminal having path set to the directory in which project is present
+
+-Run <strong>npm install</strong> (this command will install all packages present in our json file)
+
+-Run <strong>nodemon app.js</strong> command
+
+-Open browser and set url as <strong>localhost:3000</strong> and press enter this will open our project
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -42,22 +63,6 @@ You should see the version of node you just installed.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-<h1>Steps required to run the code:</h1>
-
--Make sure you have npm  and nodejs installed in your computer
-
--Clone the project in your computer by  <strong>git clone https://github.com/abhishekdhar30/Internship_assg02</strong> command on terminal.
-
--Open the terminal having path set to the directory in which project is present
-
--Run <strong>npm install</strong> (this command will install all packages present in our json file)
-
--Run <strong>nodemon app.js</strong> command
-
--Open browser and set url as <strong>localhost:3000</strong> and press enter this will open our project
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h1>Logic:</h1>
 
