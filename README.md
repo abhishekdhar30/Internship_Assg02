@@ -8,23 +8,16 @@
 *Technology Used:
 
 Front end:
-
 CSS3
-
 Bootstrap
 
 Back end:
-
 Nodejs
-
 EJS
-
 Express
 
 Database used:
-
 MongoDB
-
 Mongoose
 
 
