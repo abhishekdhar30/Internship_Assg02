@@ -45,15 +45,15 @@ You should see the version of node you just installed.
 
 *Steps required to run the code:
 
--First clone the project in your computer by  <strong>git clone https://github.com/abhishekdhar30/Internship_assg02</srong> command.
+-First clone the project in your computer by  <strong>git clone https://github.com/abhishekdhar30/Internship_assg02</strong> command.
 
 -Open the terminal having path set to the directory in which project is present
 
--Run npm install (this command will install all packages present in our json file)
+-Run <strong>npm install</strong> (this command will install all packages present in our json file)
 
--Run nodemon app.js command
+-Run <strong>nodemon app.js</strong> command
 
--Open browser and set url as localhost:3000 and press enter this will open our project
+-Open browser and set url as <strong>localhost:3000</strong> and press enter this will open our project
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
