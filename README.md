@@ -38,6 +38,8 @@ Mongoose
 
 -Run <strong>nodemon app.js</strong> command
 
+-If you are unable to install nodemon for some reason you can also use <strong>node app.js</strong> instead of above step
+
 -Open browser and set url as <strong>localhost:3000</strong> and press enter this will open our project
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
