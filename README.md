@@ -5,7 +5,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-*Technology Used:
+<h1>Technology Used:</h1>
 
 Front end:
 CSS3
@@ -24,7 +24,7 @@ Mongoose
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-*Installation Steps to download nodejs in windows(This step is for those who don't have installed nodejs in their pc)-
+<h1>Installation Steps to download nodejs in windows(This step is for those who don't have installed nodejs in their pc)-</h1>
 
 -Download the Windows installer from the Nodes.js® web site. 
 
@@ -43,7 +43,7 @@ You should see the version of node you just installed.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-*Steps required to run the code:
+<h1>Steps required to run the code:</h1>
 
 -First clone the project in your computer by  <strong>git clone https://github.com/abhishekdhar30/Internship_assg02</strong> command on terminal.
 
@@ -57,7 +57,7 @@ You should see the version of node you just installed.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*Logic:
+<h1>Logic:</h1>
 
 I have created two pages one for login and another for movies.
 
