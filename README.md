@@ -45,7 +45,9 @@ You should see the version of node you just installed.
 
 <h1>Steps required to run the code:</h1>
 
--First clone the project in your computer by  <strong>git clone https://github.com/abhishekdhar30/Internship_assg02</strong> command on terminal.
+-Make sure you have npm  and nodejs installed in your computer
+
+-Clone the project in your computer by  <strong>git clone https://github.com/abhishekdhar30/Internship_assg02</strong> command on terminal.
 
 -Open the terminal having path set to the directory in which project is present
 
