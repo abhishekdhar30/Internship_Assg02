@@ -61,7 +61,8 @@ const dummy=new Movie({
   button:-1
 });
 dummy.save();
-
+   erro=0;                  /*reset the erro to 0 this is done bcoz when we again enter correct 
+                              data after wrong input this will not show the same error message*/
     res.redirect("/movies");//redirecting to movies page
 });
 
