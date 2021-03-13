@@ -45,7 +45,7 @@ You should see the version of node you just installed.
 
 *Steps required to run the code:
 
--First clone the project in your computer by  <strong>git clone https://github.com/abhishekdhar30/Internship_assg02</strong> command.
+-First clone the project in your computer by  <strong>git clone https://github.com/abhishekdhar30/Internship_assg02</strong> command on terminal.
 
 -Open the terminal having path set to the directory in which project is present
 
