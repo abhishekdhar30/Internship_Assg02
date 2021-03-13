@@ -26,6 +26,13 @@ const Sch=new mongoose.Schema({
 //creating collection named as movies
 const Movie = mongoose.model('Movie',Sch);
 
+const temporary=new Movie({
+    ratings:0,
+  comments:"temp",
+  button:-1
+});
+temporary.save();
+
 
 //Get function for login page
 app.get("/",function(req,res)
