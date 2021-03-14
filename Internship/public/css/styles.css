@@ -2,8 +2,6 @@ body {
     margin: 0;
     padding: 0;
     background-color: #17a2b8;
-    
-   
     height: 100vh;
   }
   #login .container #login-row #login-column #login-box {
@@ -28,15 +26,6 @@ body {
     max-width: 700px;
   }
 
-  .checked
- {
-  color:red;
- }
-  .unchecked
- {
-  color:black;
- }
-
 .sameline input {
   margin-bottom: 10px;
   width: 50%;
@@ -45,18 +34,4 @@ body {
 .sameline label {
   display: inline-block;
   width: 100px;
-}
-
-.bd-placeholder-img {
-  font-size: 1.125rem;
-  text-anchor: middle;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  user-select: none;
-}
-
-@media (min-width: 768px) {
-  .bd-placeholder-img-lg {
-    font-size: 3.5rem;
-  }
 }
