@@ -1,4 +1,4 @@
-# Internship Assignment 02
+# Project
 
 *Problem statement:Create a simple login form where a user can sign in and then there should be one page where user can rate as well as put comments on the movies (you can make list of any 10 movies). The average rating and comments should be visible besides the movie name.
 
